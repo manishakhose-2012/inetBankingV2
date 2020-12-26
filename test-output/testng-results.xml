@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-23T15:19:54 GMT" name="InetBanking" finished-at="2020-12-23T15:20:03 GMT" duration-ms="8934">
+    <groups>
+    </groups>
+    <test started-at="2020-12-23T15:19:54 GMT" name="BankingApp Test" finished-at="2020-12-23T15:20:03 GMT" duration-ms="8934">
+      <class name="com.inetBanking.testCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.inetBanking.testCases.TC_LoginTest_001@29647f75]" started-at="2020-12-23T15:19:54 GMT" name="setup" finished-at="2020-12-23T15:19:58 GMT" duration-ms="3689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.inetBanking.testCases.TC_LoginTest_001@29647f75]" started-at="2020-12-23T15:19:58 GMT" name="loginTest" finished-at="2020-12-23T15:20:02 GMT" duration-ms="4729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_LoginTest_001@29647f75]" started-at="2020-12-23T15:20:02 GMT" name="tearDown" finished-at="2020-12-23T15:20:03 GMT" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetBanking.testCases.TC_LoginTest_001 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- InetBanking -->
+</testng-results>

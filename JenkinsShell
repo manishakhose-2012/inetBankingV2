@@ -1,0 +1,4 @@
+#!/bin/bash
+
+Cd /Users/sammohite/eclipse-workspace/inetBankingV2
+./ShellScriptSample
